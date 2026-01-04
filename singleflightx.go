@@ -1,3 +1,6 @@
+// Package singleflightx provides a generic singleflight-style
+// mechanism to suppress duplicate concurrent function executions.
+
 package singleflightx
 
 import (
