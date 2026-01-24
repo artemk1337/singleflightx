@@ -19,7 +19,7 @@ The package is inspired by golang.org/x/sync/singleflight, but focuses on simpli
 ## Installation
 
 ```bash
-go get github.com/yourname/singleflightx
+go get github.com/artemk1337/singleflightx
 ```
 
 ---
